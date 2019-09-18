@@ -12,7 +12,7 @@ Packages Required
 4. smtplib
 5. ssl
 
-You can install them wih pip install <package-name>
+You can install them wih pip install package-name
 
 Use the get_pdf_coordinates.py helper file to determine the coordinates, font size etc that you want to use.
 
