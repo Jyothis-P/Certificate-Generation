@@ -18,4 +18,6 @@ Use the get_pdf_coordinates.py helper file to determine the coordinates, font si
 
 Then create the certificates with create_certificate.py
 
+*Ticket.pdf is the original file and certificate.py is the output file.
+
 You can also send this via mail using send.py
